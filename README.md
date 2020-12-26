@@ -14,7 +14,7 @@ messages sent by the methods used to check and to fix the database, so
 that they explain exactly what it does.
 
 More information on the error messages can be found
-[here](https://github.com/Arthur-Milchior/anki/blob/1cc9264c3ce3b8d51e34ce70d43d096bc751a09e/documentation/computing_intervals.md).
+[here](https://github.com/Arthur-Milchior/anki/blob/1cc9264c3ce3b8d51e34ce70d43d096bc751a09e/documentation/db_check.md).
 
 ### Checking what Anki forgot to check
 There are kinds of errors that Anki does not check. This add-on also 
